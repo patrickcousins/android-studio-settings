@@ -1,0 +1,6 @@
+<application>
+  <component name="GenerateFluentInterfaceState">
+    <option name="generateGetters" value="true" />
+    <option name="setterPrefix" value="" />
+  </component>
+</application>
