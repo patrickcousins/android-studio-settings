@@ -1,4 +1,8 @@
 <keymap version="1" name="pj-mac-osx-from-ecplise" parent="Eclipse (Mac OS X)">
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="shift meta a" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
