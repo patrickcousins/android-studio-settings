@@ -37,7 +37,7 @@
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="gradle.compiler" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="android.sdk.path" value="$USER_HOME$/Documents/sdks/android-sdk-macosx" />
+        <property name="android.sdk.path" value="$USER_HOME$/sdks/android" />
         <property name="android.project.structure.last.selected" value="SDK Location" />
         <property name="android.project.structure.proportion" value="0.15" />
       </component>
