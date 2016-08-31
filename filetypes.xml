@@ -3,7 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="SavedDeeplink" type="SQL" />
-      <mapping pattern="SavedDeeplink.sq" type="Sqlite" />
+      <removed_mapping ext="sq" type="Sqlite" />
       <mapping pattern="my_square" type="XML" />
     </extensionMap>
   </component>
