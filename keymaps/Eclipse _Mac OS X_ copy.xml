@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta alt down" />
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
@@ -18,6 +21,9 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
